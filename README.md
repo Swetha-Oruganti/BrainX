@@ -75,3 +75,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Material-UI for the component library
 - Framer Motion for animations
 - React Router for navigation
+
+###Output Screenshots
+Login Page
+<img width="920" height="446" alt="s0" src="https://github.com/user-attachments/assets/dfd42641-401a-453c-8ee7-7704330476ee" />
+<br/>
+Home Page
+<img width="923" height="446" alt="s1" src="https://github.com/user-attachments/assets/4373066d-fcce-42b4-af75-bd34431c340b" />
+<br/>
+Features
+<img width="767" height="359" alt="s2" src="https://github.com/user-attachments/assets/a33bd01f-0014-445e-a8e3-3a0791f6dbe3" />
+<br/>
+DashBoard
+<img width="913" height="451" alt="s3" src="https://github.com/user-attachments/assets/2033131c-c019-4872-9cb7-9cd7cca8e96a" />
+<img width="919" height="443" alt="s4" src="https://github.com/user-attachments/assets/25f8ac0a-fe2e-4562-a90f-afaf69b08ee3" />
+
+<br/>
+Learning Path
+<img width="896" height="448" alt="s5" src="https://github.com/user-attachments/assets/38d27dd5-5eb9-4a5f-9b4e-d7899993d5df" />
+<img width="902" height="446" alt="s7" src="https://github.com/user-attachments/assets/6fe4d91e-0685-4fbd-9d83-89b1fac894b1" />
+<img width="920" height="443" alt="s8" src="https://github.com/user-attachments/assets/f292c8c1-18c4-4c80-8024-308540008607" />
+<br/>
+ChatBot
+<img width="917" height="446" alt="s9" src="https://github.com/user-attachments/assets/50f14735-ed99-4379-b536-4d5c4b975c2e" />
+
+
